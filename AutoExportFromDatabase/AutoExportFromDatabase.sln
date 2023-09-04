@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoExportFromDatabase", "AutoExportFromDatabase.csproj", "{CD732D8F-4174-4E65-A254-B5D58FD0B4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD732D8F-4174-4E65-A254-B5D58FD0B4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD732D8F-4174-4E65-A254-B5D58FD0B4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD732D8F-4174-4E65-A254-B5D58FD0B4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD732D8F-4174-4E65-A254-B5D58FD0B4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61FAA7B8-4B25-4D10-AE04-C4E9CAD225F6}
+	EndGlobalSection
+EndGlobal
